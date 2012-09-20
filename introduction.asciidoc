@@ -1,0 +1,51 @@
+==  Introduction
+
+The goal of this workshop is to introduce simple circuits.  Students work with a set of basic components such as batteries, wires and LEDs.  Each of the projects is easy-to-do, fun and rewarding for students who can explore various methods of lighting LEDs.
+
+=== Project Set
+
+LED Throwies:: 
+   A coin-cell battery lights an LED.  Add a magnet and tape them together to make a throwie that will stick to a metal surface. 
+Squishy Circuits:: 
+   Creating play dough with salt makes it a good conductor.  Making another batch with sugar instead of salt makes it an insulator.   Now, use the play dough to build simple circuits, lighting one or more LEDs.
+LED Pop-up Cards::
+   A creative pop-up card can have a hidden LED that works with conductive metal tape. 
+
+=== Duration
+
+LED Throwies is a very short introductory project that can be done a matter of minutes.  Yet, students can have more fun with it if given enough time to play and experiment.   The centerpiece of the workshop is Squishy Circuits, which can be done in a half-hour but also extended for many hours, given different components.   LED Pop-up Cards can be completed in a half-hour or so, given advance preparation.   
+
+=== Participation
+
+Because the basic components for these projects are inexpensive, and reusable, it is easy to do these projects with larger numbers of participants, and each one can have their own set of materials.   The projects in this workshop are good for students of almost any age, if they have not had previous experience building circuits.
+
+=== Environment or space
+
+These are tabletop projects that can be adapted to almost any environment.
+
+=== Materials and Tools
+
+These three projects use the same basic electronic components, which are inexpensive.  
+
+=== Prerequisites 
+
+There is no prerequisite for these projects, although playing with circuit blocks might be a good companion project, either before or after these projects. 
+
+=== Level - 0
+
+Workshop Facilitation
+
+. None of these projects require students to have written instructions while doing the projects.
+. You might have everyone do an LED throwie as a starter project.   Then allow small groups to choose either the LED pop-up card or the Squishy Circuits project.   If there’s time, allow these groups to switch projects.  
+
+=== Concepts and Skills Introduced
+
+(incorporate more from Joel’s document but maybe link to a separate document with Joel explaining electricity.)
+
+. The components of a simple circuit.
+. Batteries and LEDs have a positive and negative polarity. 
+. Different materials have different conductive and insulating properties.
+
+=== Related Exercises
+
+. Ask students to draw a simple circuit on paper referencing the components they used in this workshop.
