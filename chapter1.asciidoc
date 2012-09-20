@@ -39,61 +39,6 @@ Workshop Facilitation
 . You might have everyone do an LED throwie as a starter project.   Then allow small groups to choose either the LED pop-up card or the Squishy Circuits project.   If there’s time, allow these groups to switch projects.  
 
 
-== Recommended Projects
-
-
-== Squishy Circuits
-
-
-
-Overview
-Squishy Circuits was developed by Dr. AnnMarie Thomas and undergrad Samuel Johnson at the University of St. Thomas in Minneapolis.   It provides a fun way to encourage students to create and play with simple circuits.  
-Project Instructions 
-The basic instructions cover making the play dough and then a number of different experiments that can be done with various components.
-
-
-Squishy Circuits on Make:Projects
-Squishy Circuits Web Site
-
-
-Classroom Guide (PDF). 
-Videos 
-[embed videos]
-
-
-Dr. AnnMarie Thomas demonstrating Squishy Circuits at the TED Conference. 
-
-
-Super Awesome Sylvia showing the Squishy Circuits project. 
-
-
-Additional videos demonstrating variations on Squishy Circuits. 
-Kit
-A kit is not necessary for this project but the electronics parts are easier to use.
-
-
-Squishy Circuits Kit in Maker Shed
-Materials Preparation 
-1. Make the play dough in advance.   Students can make the play dough but it is usually a separate session. 
-2. Store the play dough in zipper bags or airtight canisters in refrigerator to slow mold growth.
-3. A stove or hot plate is necessary to cook the dough.
-4. This project uses battery packs.  A basic battery pack has red and black wires, which can be buried into the play dough.   The kits has its own connectors.   
-Facilitation Tips
-1. Students can work in pairs or small groups and share battery packs.
-2. Students can start by using the conductive play dough and connecting a battery pack and lighting an LED.  See if they understand why the LED will light or not.   
-3. Some students may experiment touching the two pieces of play dough together to break or interrupt the connection.   
-4. Most students will be interested in seeing how many LEDs can be lit at once.  
-5. Encourage students to make different shapes, incorporating the insulating play dough.   You can show them some examples from the Squishy Circuits website to stimulate their thinking.  
-6. Allow time for clean-up.
-Performance or Exhibition
-1. Take photos of the student creations. 
-LED Pop-Up Card
-This project combines paper crafts and circuits, including creative and technical elements by using a battery and conductive tape to light an LED.  
-
-
-
-Project Instructions
-There are really two parts to this project.   One is creating the pop-up card from construction paper.   The second is using conductive tape to connect an LED to the battery.
 
 
 LED Pop-Up Card on Make:Projects
