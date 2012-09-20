@@ -6,6 +6,6 @@ include::introduction.asciidoc[]
 
 include::led_popup.asciidoc[]
 
-include::led_throwies.asciidoc[]
-
 include::squishy_circuits.asciidoc[]
+
+include::led_throwies.asciidoc[]
