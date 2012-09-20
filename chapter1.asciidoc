@@ -43,14 +43,17 @@ Workshop Facilitation
 
 === LED Throwies
 
+image::images/led_throwies.png[]
 
 LED Throwies consist of a coin cell battery and an LED, which make a simple circuit.  Adding a magnet and taping the bundle together gives you a small light that sticks to metal surfaces. The project was developed originally by James Powderly and Graffiti Research Labs in 2006 as an urban art/graffiti form.   It became instantly popular when published on Instructables.   LED Throwies appeared in Make: 06.
 
 Project Instructions
 
-Original LED Throwies on Instructables
+Original link:http://www.instructables.com/id/LED-Throwies/[LED Throwies on Instructables]
 
-Extreme LED Throwies on Make:Projects includes LED Floaties.
+link:http://makeprojects.com/Project/Extreme-LED-Throwies/2154/1#.UDuYZNCe5OY[Extreme LED Throwies on Make:Projects includes LED Floaties].
+
+video::http://www.youtube.com/embed/GAriT4B-gkA[width="560" height="315"]
 
 Video
 
