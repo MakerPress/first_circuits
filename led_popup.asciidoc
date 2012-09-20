@@ -8,7 +8,6 @@ image::images/led_popup.png[]
 
 There are really two parts to this project.   One is creating the pop-up card from construction paper.   The second is using conductive tape to connect an LED to the battery.
 
-
 link:http://makeprojects.com/Project/LED-Pop-up-Cards/2459/1#.UDudatCe5OY[LED Pop-Up Card on Make:Projects]
 
 === Videos
