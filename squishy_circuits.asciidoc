@@ -25,30 +25,32 @@ Super Awesome Sylvia showing the Squishy Circuits project::
 video::http://www.youtube.com/embed/UDZo51k2BWQ[width="560" height="315" poster="images/sas_poster.png"]
 
 
-Additional videos demonstrating variations on Squishy Circuits. 
-Kit
+link:http://courseweb.stthomas.edu/apthomas/SquishyCircuits/videos2.htm[Additional videos demonstrating variations on Squishy Circuits].
+
+=== Kit
+
 A kit is not necessary for this project but the electronics parts are easier to use.
 
 
-Squishy Circuits Kit in Maker Shed
-Materials Preparation 
-1. Make the play dough in advance.   Students can make the play dough but it is usually a separate session. 
-2. Store the play dough in zipper bags or airtight canisters in refrigerator to slow mold growth.
-3. A stove or hot plate is necessary to cook the dough.
-4. This project uses battery packs.  A basic battery pack has red and black wires, which can be buried into the play dough.   The kits has its own connectors.   
-Facilitation Tips
-1. Students can work in pairs or small groups and share battery packs.
-2. Students can start by using the conductive play dough and connecting a battery pack and lighting an LED.  See if they understand why the LED will light or not.   
-3. Some students may experiment touching the two pieces of play dough together to break or interrupt the connection.   
-4. Most students will be interested in seeing how many LEDs can be lit at once.  
-5. Encourage students to make different shapes, incorporating the insulating play dough.   You can show them some examples from the Squishy Circuits website to stimulate their thinking.  
-6. Allow time for clean-up.
-Performance or Exhibition
-1. Take photos of the student creations. 
-LED Pop-Up Card
-This project combines paper crafts and circuits, including creative and technical elements by using a battery and conductive tape to light an LED.  
+link:http://www.makershed.com/Squishy_Circuits_Kit_p/mksc1.htm [Squishy Circuits Kit in Maker Shed]
 
+=== Materials Preparation 
 
+. Make the play dough in advance.   Students can make the play dough but it is usually a separate session. 
+. Store the play dough in zipper bags or airtight canisters in refrigerator to slow mold growth.
+. A stove or hot plate is necessary to cook the dough.
+. This project uses battery packs.  A basic battery pack has red and black wires, which can be buried into the play dough.   The kits has its own connectors.   
 
-Project Instructions
-There are really two parts to this project.   One is creating the pop-up card from construction paper.   The second is using conductive tape to connect an LED to the battery.
+=== Facilitation Tips
+
+. Students can work in pairs or small groups and share battery packs.
+. Students can start by using the conductive play dough and connecting a battery pack and lighting an LED.  See if they understand why the LED will light or not.   
+. Some students may experiment touching the two pieces of play dough together to break or interrupt the connection.   
+. Most students will be interested in seeing how many LEDs can be lit at once.  
+. Encourage students to make different shapes, incorporating the insulating play dough.   You can show them some examples from the Squishy Circuits website to stimulate their thinking.  
+. Allow time for clean-up.
+
+=== Performance or Exhibition
+
+. Take photos of the student creations. 
+
