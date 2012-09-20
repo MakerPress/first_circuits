@@ -15,17 +15,14 @@ link:http://courseweb.stthomas.edu/apthomas/SquishyCircuits/PDFs/Squishy%20Circu
 
 === Videos
 
-
-
-
-Dr. AnnMarie Thomas demonstrating Squishy Circuits at the TED Conference:
+Dr. AnnMarie Thomas demonstrating Squishy Circuits at the TED Conference::
 
 video::http://www.youtube.com/embed/5M3Dow20KlM[width="560" height="315" poster="images/squishy_circuit.png"]
 
 
+Super Awesome Sylvia showing the Squishy Circuits project::
 
-
-Super Awesome Sylvia showing the Squishy Circuits project. 
+video::http://www.youtube.com/embed/UDZo51k2BWQ[width="560" height="315" poster="images/sas_poster.png"]
 
 
 Additional videos demonstrating variations on Squishy Circuits. 
