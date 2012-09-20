@@ -2,7 +2,7 @@
 
 = First Circuits Workshop
 
-include::chapter1.asciidoc[]
+include::introduction.asciidoc[]
 
 include::led_popup.asciidoc[]
 
