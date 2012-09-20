@@ -1,0 +1,149 @@
+==  Introduction
+
+The goal of this workshop is to introduce simple circuits.  Students work with a set of basic components such as batteries, wires and LEDs.  Each of the projects is easy-to-do, fun and rewarding for students who can explore various methods of lighting LEDs.
+
+=== Project Set
+
+LED Throwies:: 
+   A coin-cell battery lights an LED.  Add a magnet and tape them together to make a throwie that will stick to a metal surface. 
+Squishy Circuits:: 
+   Creating play dough with salt makes it a good conductor.  Making another batch with sugar instead of salt makes it an insulator.   Now, use the play dough to build simple circuits, lighting one or more LEDs.
+LED Pop-up Cards::
+   A creative pop-up card can have a hidden LED that works with conductive metal tape. 
+
+=== Duration
+
+LED Throwies is a very short introductory project that can be done a matter of minutes.  Yet, students can have more fun with it if given enough time to play and experiment.   The centerpiece of the workshop is Squishy Circuits, which can be done in a half-hour but also extended for many hours, given different components.   LED Pop-up Cards can be completed in a half-hour or so, given advance preparation.   
+
+=== Participation
+
+Because the basic components for these projects are inexpensive, and reusable, it is easy to do these projects with larger numbers of participants, and each one can have their own set of materials.   The projects in this workshop are good for students of almost any age, if they have not had previous experience building circuits.
+
+=== Environment or space
+
+These are tabletop projects that can be adapted to almost any environment.
+
+=== Materials and Tools
+
+These three projects use the same basic electronic components, which are inexpensive.  
+
+=== Prerequisites 
+
+There is no prerequisite for these projects, although playing with circuit blocks might be a good companion project, either before or after these projects. 
+
+=== Level - 0
+
+Workshop Facilitation
+
+. None of these projects require students to have written instructions while doing the projects.
+. You might have everyone do an LED throwie as a starter project.   Then allow small groups to choose either the LED pop-up card or the Squishy Circuits project.   If there’s time, allow these groups to switch projects.  
+
+
+== Recommended Projects
+
+=== LED Throwies
+
+
+LED Throwies consist of a coin cell battery and an LED, which make a simple circuit.  Adding a magnet and taping the bundle together gives you a small light that sticks to metal surfaces. The project was developed originally by James Powderly and Graffiti Research Labs in 2006 as an urban art/graffiti form.   It became instantly popular when published on Instructables.   LED Throwies appeared in Make: 06.
+
+Project Instructions
+
+Original LED Throwies on Instructables
+
+Extreme LED Throwies on Make:Projects includes LED Floaties.
+
+Video
+
+LED Throwies in action by Graffiti Research Lab. 
+
+LED Floaties
+Materials Preparation 
+1. The simplest way to organize this project is to put the materials on a table and let students grab what they need. 
+2. Alternatively, you can sort the required parts and put them in small plastic bags if you are handing them out.  
+Facilitation Tips
+1. For LED Throwies, give the materials to the students without much explanation.  Ask them to light the LED and hold it up when they’ve done that.   Let them try and see what happens.
+2. Allow students to take an LED throwie home.  Students are usually interested in knowing how long the battery will light the LED. 
+1. Students can also create a version that uses the magnet to attach the LED to a lapel or pocket. 
+Performance or exhibition
+1. Students can identify metal objects or surfaces in the classroom.
+2. If you prepare a metal board for the LED throwies, the collection of students’ LED throwies can be a classroom exhibit.   Try it in a darkened room. 
+Squishy Circuits
+
+
+
+Overview
+Squishy Circuits was developed by Dr. AnnMarie Thomas and undergrad Samuel Johnson at the University of St. Thomas in Minneapolis.   It provides a fun way to encourage students to create and play with simple circuits.  
+Project Instructions 
+The basic instructions cover making the play dough and then a number of different experiments that can be done with various components.
+
+
+Squishy Circuits on Make:Projects
+Squishy Circuits Web Site
+
+
+Classroom Guide (PDF). 
+Videos 
+[embed videos]
+
+
+Dr. AnnMarie Thomas demonstrating Squishy Circuits at the TED Conference. 
+
+
+Super Awesome Sylvia showing the Squishy Circuits project. 
+
+
+Additional videos demonstrating variations on Squishy Circuits. 
+Kit
+A kit is not necessary for this project but the electronics parts are easier to use.
+
+
+Squishy Circuits Kit in Maker Shed
+Materials Preparation 
+1. Make the play dough in advance.   Students can make the play dough but it is usually a separate session. 
+2. Store the play dough in zipper bags or airtight canisters in refrigerator to slow mold growth.
+3. A stove or hot plate is necessary to cook the dough.
+4. This project uses battery packs.  A basic battery pack has red and black wires, which can be buried into the play dough.   The kits has its own connectors.   
+Facilitation Tips
+1. Students can work in pairs or small groups and share battery packs.
+2. Students can start by using the conductive play dough and connecting a battery pack and lighting an LED.  See if they understand why the LED will light or not.   
+3. Some students may experiment touching the two pieces of play dough together to break or interrupt the connection.   
+4. Most students will be interested in seeing how many LEDs can be lit at once.  
+5. Encourage students to make different shapes, incorporating the insulating play dough.   You can show them some examples from the Squishy Circuits website to stimulate their thinking.  
+6. Allow time for clean-up.
+Performance or Exhibition
+1. Take photos of the student creations. 
+LED Pop-Up Card
+This project combines paper crafts and circuits, including creative and technical elements by using a battery and conductive tape to light an LED.  
+
+
+
+Project Instructions
+There are really two parts to this project.   One is creating the pop-up card from construction paper.   The second is using conductive tape to connect an LED to the battery.
+
+
+LED Pop-Up Card on Make:Projects
+Videos
+none exist.
+Resources
+Enchanted Learning has more information about the craft of pop-up cards.
+Materials Organization and Preparation
+1. Each student requires an LED and several strips of conductive tape. 
+2. A roll of copper or metal tape is required for the LED pop-up card.
+3. Templates can be prepared for tracing of figures or designs that can be incorporated into the card.   Examples: trees, fish, etc.
+4. Have students build the basic pop-up card before adding the LED circuitry.  
+5. The adhesive on the bottom of the copper tape could potentially cause the circuit to not work at all. It is working as an insulator and not a conductor.
+6. The circuit can be more difficult to build because it has more points of possible contact.  Students need to keep the positive lead from touching the negative lead, or the tape that connects them to the battery.
+Tools 
+No special tools other than scissors are required. 
+Facilitation Tips
+1. It’s good to have a set of sample cards to use as models.  Make one for each group of students.
+2. Make sure the edges of the metal tape do not overlap.  
+3. Have students share their cards with each other at the end of the workshop.
+3. Concepts and Skills Introduced
+(incorporate more from Joel’s document but maybe link to a separate document with Joel explaining electricity.)
+Concepts
+1. The components of a simple circuit.
+2. Batteries and LEDs have a positive and negative polarity. 
+3. Different materials have different conductive and insulating properties.
+Related Exercises
+1. Ask students to draw a simple circuit on paper referencing the components they used in this workshop.
