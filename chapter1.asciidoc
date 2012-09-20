@@ -53,7 +53,7 @@ Original link:http://www.instructables.com/id/LED-Throwies/[LED Throwies on Inst
 
 link:http://makeprojects.com/Project/Extreme-LED-Throwies/2154/1#.UDuYZNCe5OY[Extreme LED Throwies on Make:Projects includes LED Floaties].
 
-video::http://www.youtube.com/embed/GAriT4B-gkA[width="560" height="315"]
+video::http://www.youtube.com/embed/GAriT4B-gkA[width="560" height="315" poster="images/led_throwies_vied.png]
 
 Video
 
