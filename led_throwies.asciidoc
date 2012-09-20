@@ -16,7 +16,6 @@ video::http://www.youtube.com/embed/GAriT4B-gkA[width="560" height="315" poster=
 
 link:http://graffitiresearchlab.com/LED_throwies_WEB.mov[LED Throwies in action] by Graffiti Research Lab. 
 
-
 === LED Floaties
 
 Materials Preparation
