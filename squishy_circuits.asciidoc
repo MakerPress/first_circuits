@@ -18,10 +18,9 @@ link:http://courseweb.stthomas.edu/apthomas/SquishyCircuits/PDFs/Squishy%20Circu
 
 
 
-Dr. AnnMarie Thomas demonstrating Squishy Circuits at the TED Conference. 
+Dr. AnnMarie Thomas demonstrating Squishy Circuits at the TED Conference:
 
-
-squishy_circuit.png
+video::http://www.youtube.com/embed/5M3Dow20KlM[width="560" height="315" poster="images/squishy_circuit.png"]
 
 
 
