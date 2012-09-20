@@ -1,0 +1,38 @@
+== LED Pop-Up Card
+
+This project combines paper crafts and circuits, including creative and technical elements by using a battery and conductive tape to light an LED.  
+
+image::images/led_popup.png[]
+
+=== Project Instructions
+
+There are really two parts to this project.   One is creating the pop-up card from construction paper.   The second is using conductive tape to connect an LED to the battery.
+
+
+link:http://makeprojects.com/Project/LED-Pop-up-Cards/2459/1#.UDudatCe5OY[LED Pop-Up Card on Make:Projects]
+
+=== Videos
+
+None exist.
+
+=== Resources
+
+link:http://www.enchantedlearning.com/crafts/popupcards/[Enchanted Learning] has more information about the craft of pop-up cards.
+
+=== Materials Organization and Preparation
+
+. Each student requires an LED and several strips of conductive tape. 
+. A roll of copper or metal tape is required for the LED pop-up card.
+. Templates can be prepared for tracing of figures or designs that can be incorporated into the card.   Examples: trees, fish, etc.
+. Have students build the basic pop-up card before adding the LED circuitry.  
+. The adhesive on the bottom of the copper tape could potentially cause the circuit to not work at all. It is working as an insulator and not a conductor.
+. The circuit can be more difficult to build because it has more points of possible contact.  Students need to keep the positive lead from touching the negative lead, or the tape that connects them to the battery.
+
+=== Tools 
+No special tools other than scissors are required. 
+
+=== Facilitation Tips
+
+. It’s good to have a set of sample cards to use as models.  Make one for each group of students.
+. Make sure the edges of the metal tape do not overlap.  
+. Have students share their cards with each other at the end of the workshop.
