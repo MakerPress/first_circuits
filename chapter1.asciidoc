@@ -41,36 +41,26 @@ Workshop Facilitation
 
 == Recommended Projects
 
-=== LED Throwies
 
-image::images/led_throwies.png[]
+=== LED Floaties
 
-LED Throwies consist of a coin cell battery and an LED, which make a simple circuit.  Adding a magnet and taping the bundle together gives you a small light that sticks to metal surfaces. The project was developed originally by James Powderly and Graffiti Research Labs in 2006 as an urban art/graffiti form.   It became instantly popular when published on Instructables.   LED Throwies appeared in Make: 06.
+Materials Preparation
 
-Project Instructions
+. The simplest way to organize this project is to put the materials on a table and let students grab what they need. 
+. Alternatively, you can sort the required parts and put them in small plastic bags if you are handing them out.  
 
-Original link:http://www.instructables.com/id/LED-Throwies/[LED Throwies on Instructables]
+=== Facilitation Tips
 
-link:http://makeprojects.com/Project/Extreme-LED-Throwies/2154/1#.UDuYZNCe5OY[Extreme LED Throwies on Make:Projects includes LED Floaties].
+. For LED Throwies, give the materials to the students without much explanation.  Ask them to light the LED and hold it up when they’ve done that.   Let them try and see what happens.
+. Allow students to take an LED throwie home.  Students are usually interested in knowing how long the battery will light the LED. 
+. Students can also create a version that uses the magnet to attach the LED to a lapel or pocket. 
 
-video::http://www.youtube.com/embed/GAriT4B-gkA[width="560" height="315" poster="images/led_throwies_vied.png]
+=== Performance or exhibition
 
-Video
+. Students can identify metal objects or surfaces in the classroom.
+. If you prepare a metal board for the LED throwies, the collection of students’ LED throwies can be a classroom exhibit.   Try it in a darkened room. 
 
-LED Throwies in action by Graffiti Research Lab. 
-
-LED Floaties
-Materials Preparation 
-1. The simplest way to organize this project is to put the materials on a table and let students grab what they need. 
-2. Alternatively, you can sort the required parts and put them in small plastic bags if you are handing them out.  
-Facilitation Tips
-1. For LED Throwies, give the materials to the students without much explanation.  Ask them to light the LED and hold it up when they’ve done that.   Let them try and see what happens.
-2. Allow students to take an LED throwie home.  Students are usually interested in knowing how long the battery will light the LED. 
-1. Students can also create a version that uses the magnet to attach the LED to a lapel or pocket. 
-Performance or exhibition
-1. Students can identify metal objects or surfaces in the classroom.
-2. If you prepare a metal board for the LED throwies, the collection of students’ LED throwies can be a classroom exhibit.   Try it in a darkened room. 
-Squishy Circuits
+== Squishy Circuits
 
 
 
