@@ -15,3 +15,22 @@ video::http://www.youtube.com/embed/GAriT4B-gkA[width="560" height="315" poster=
 === Video
 
 link:http://graffitiresearchlab.com/LED_throwies_WEB.mov[LED Throwies in action] by Graffiti Research Lab. 
+
+
+=== LED Floaties
+
+Materials Preparation
+
+. The simplest way to organize this project is to put the materials on a table and let students grab what they need. 
+. Alternatively, you can sort the required parts and put them in small plastic bags if you are handing them out.  
+
+=== Facilitation Tips
+
+. For LED Throwies, give the materials to the students without much explanation.  Ask them to light the LED and hold it up when they’ve done that.   Let them try and see what happens.
+. Allow students to take an LED throwie home.  Students are usually interested in knowing how long the battery will light the LED. 
+. Students can also create a version that uses the magnet to attach the LED to a lapel or pocket. 
+
+=== Performance or exhibition
+
+. Students can identify metal objects or surfaces in the classroom.
+. If you prepare a metal board for the LED throwies, the collection of students’ LED throwies can be a classroom exhibit.   Try it in a darkened room. 
